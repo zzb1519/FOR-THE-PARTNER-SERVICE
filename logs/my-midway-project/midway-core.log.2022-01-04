@@ -1,0 +1,66 @@
+2022-01-04 12:46:10,259 INFO 39105 [egg:logger] init all loggers with options: {"dir":"/Users/apple/Desktop/FOR-THE-PARTNER-SERVICE/logs/my-midway-project","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"midway-web.log","coreLogName":"midway-core.log","agentLogName":"midway-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-01-04 12:46:10,260 INFO 39105 [egg:core] dump config after load, 6ms
+2022-01-04 12:46:10,339 INFO 39105 [egg-multipart] stream mode enable
+2022-01-04 12:46:10,417 INFO 39105 [egg-security] use methodnoallow middleware
+2022-01-04 12:46:10,418 INFO 39105 [egg-security] use noopen middleware
+2022-01-04 12:46:10,419 INFO 39105 [egg-security] use nosniff middleware
+2022-01-04 12:46:10,420 INFO 39105 [egg-security] use xssProtection middleware
+2022-01-04 12:46:10,420 INFO 39105 [egg-security] use xframe middleware
+2022-01-04 12:46:10,421 INFO 39105 [egg-security] use dta middleware
+2022-01-04 12:46:10,421 INFO 39105 [egg-security] compose 6 middlewares into one security middleware
+2022-01-04 12:46:10,429 INFO 39105 [egg:core] dump config after ready, 4ms
+2022-01-04 12:51:05,013 INFO 40140 [egg:logger] init all loggers with options: {"dir":"/Users/apple/Desktop/FOR-THE-PARTNER-SERVICE/logs/my-midway-project","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"midway-web.log","coreLogName":"midway-core.log","agentLogName":"midway-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-01-04 12:51:05,014 INFO 40140 [egg:core] dump config after load, 8ms
+2022-01-04 12:51:05,083 INFO 40140 [egg-multipart] stream mode enable
+2022-01-04 12:51:05,140 INFO 40140 [egg-security] use methodnoallow middleware
+2022-01-04 12:51:05,140 INFO 40140 [egg-security] use noopen middleware
+2022-01-04 12:51:05,141 INFO 40140 [egg-security] use nosniff middleware
+2022-01-04 12:51:05,142 INFO 40140 [egg-security] use xssProtection middleware
+2022-01-04 12:51:05,142 INFO 40140 [egg-security] use xframe middleware
+2022-01-04 12:51:05,143 INFO 40140 [egg-security] use dta middleware
+2022-01-04 12:51:05,143 INFO 40140 [egg-security] compose 6 middlewares into one security middleware
+2022-01-04 12:51:05,149 INFO 40140 [egg:core] dump config after ready, 2ms
+2022-01-04 12:51:18,050 INFO 40209 [egg:logger] init all loggers with options: {"dir":"/Users/apple/Desktop/FOR-THE-PARTNER-SERVICE/logs/my-midway-project","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"midway-web.log","coreLogName":"midway-core.log","agentLogName":"midway-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-01-04 12:51:18,050 INFO 40209 [egg:core] dump config after load, 6ms
+2022-01-04 12:51:18,095 INFO 40209 [egg-multipart] stream mode enable
+2022-01-04 12:51:18,134 INFO 40209 [egg-security] use methodnoallow middleware
+2022-01-04 12:51:18,135 INFO 40209 [egg-security] use noopen middleware
+2022-01-04 12:51:18,136 INFO 40209 [egg-security] use nosniff middleware
+2022-01-04 12:51:18,136 INFO 40209 [egg-security] use xssProtection middleware
+2022-01-04 12:51:18,137 INFO 40209 [egg-security] use xframe middleware
+2022-01-04 12:51:18,137 INFO 40209 [egg-security] use dta middleware
+2022-01-04 12:51:18,137 INFO 40209 [egg-security] compose 6 middlewares into one security middleware
+2022-01-04 12:51:18,143 INFO 40209 [egg:core] dump config after ready, 2ms
+2022-01-04 12:52:43,660 INFO 40488 [egg:logger] init all loggers with options: {"dir":"/Users/apple/Desktop/FOR-THE-PARTNER-SERVICE/logs/my-midway-project","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"midway-web.log","coreLogName":"midway-core.log","agentLogName":"midway-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-01-04 12:52:43,661 INFO 40488 [egg:core] dump config after load, 7ms
+2022-01-04 12:52:43,733 INFO 40488 [egg-multipart] stream mode enable
+2022-01-04 12:52:43,793 INFO 40488 [egg-security] use methodnoallow middleware
+2022-01-04 12:52:43,794 INFO 40488 [egg-security] use noopen middleware
+2022-01-04 12:52:43,795 INFO 40488 [egg-security] use nosniff middleware
+2022-01-04 12:52:43,795 INFO 40488 [egg-security] use xssProtection middleware
+2022-01-04 12:52:43,796 INFO 40488 [egg-security] use xframe middleware
+2022-01-04 12:52:43,796 INFO 40488 [egg-security] use dta middleware
+2022-01-04 12:52:43,796 INFO 40488 [egg-security] compose 6 middlewares into one security middleware
+2022-01-04 12:52:43,802 INFO 40488 [egg:core] dump config after ready, 2ms
+2022-01-04 12:53:34,798 INFO 40685 [egg:logger] init all loggers with options: {"dir":"/Users/apple/Desktop/FOR-THE-PARTNER-SERVICE/logs/my-midway-project","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"midway-web.log","coreLogName":"midway-core.log","agentLogName":"midway-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-01-04 12:53:34,798 INFO 40685 [egg:core] dump config after load, 6ms
+2022-01-04 12:53:34,870 INFO 40685 [egg-multipart] stream mode enable
+2022-01-04 12:53:34,931 INFO 40685 [egg-security] use methodnoallow middleware
+2022-01-04 12:53:34,932 INFO 40685 [egg-security] use noopen middleware
+2022-01-04 12:53:34,933 INFO 40685 [egg-security] use nosniff middleware
+2022-01-04 12:53:34,933 INFO 40685 [egg-security] use xssProtection middleware
+2022-01-04 12:53:34,934 INFO 40685 [egg-security] use xframe middleware
+2022-01-04 12:53:34,935 INFO 40685 [egg-security] use dta middleware
+2022-01-04 12:53:34,935 INFO 40685 [egg-security] compose 6 middlewares into one security middleware
+2022-01-04 12:53:34,941 INFO 40685 [egg:core] dump config after ready, 2ms
+2022-01-04 12:54:26,813 INFO 40891 [egg:logger] init all loggers with options: {"dir":"/Users/apple/Desktop/FOR-THE-PARTNER-SERVICE/logs/my-midway-project","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"midway-web.log","coreLogName":"midway-core.log","agentLogName":"midway-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-01-04 12:54:26,813 INFO 40891 [egg:core] dump config after load, 6ms
+2022-01-04 12:54:26,887 INFO 40891 [egg-multipart] stream mode enable
+2022-01-04 12:54:26,945 INFO 40891 [egg-security] use methodnoallow middleware
+2022-01-04 12:54:26,946 INFO 40891 [egg-security] use noopen middleware
+2022-01-04 12:54:26,946 INFO 40891 [egg-security] use nosniff middleware
+2022-01-04 12:54:26,947 INFO 40891 [egg-security] use xssProtection middleware
+2022-01-04 12:54:26,947 INFO 40891 [egg-security] use xframe middleware
+2022-01-04 12:54:26,948 INFO 40891 [egg-security] use dta middleware
+2022-01-04 12:54:26,948 INFO 40891 [egg-security] compose 6 middlewares into one security middleware
+2022-01-04 12:54:26,955 INFO 40891 [egg:core] dump config after ready, 2ms

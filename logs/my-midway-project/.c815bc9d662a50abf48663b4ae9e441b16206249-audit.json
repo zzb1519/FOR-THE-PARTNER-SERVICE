@@ -1,0 +1,14 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 31
+    },
+    "auditLog": "/Users/apple/Desktop/FOR-THE-PARTNER-SERVICE/logs/my-midway-project/.c815bc9d662a50abf48663b4ae9e441b16206249-audit.json",
+    "files": [
+        {
+            "date": 1641271570069,
+            "name": "/Users/apple/Desktop/FOR-THE-PARTNER-SERVICE/logs/my-midway-project/egg-schedule.log.2022-01-04",
+            "hash": "9ef9b82860a0b6cacde65cc140e659af"
+        }
+    ]
+}

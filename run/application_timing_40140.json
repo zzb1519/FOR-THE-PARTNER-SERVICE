@@ -1,0 +1,514 @@
+[
+  {
+    "name": "Process Start",
+    "start": 1641271861376,
+    "end": 1641271864999,
+    "duration": 3623,
+    "pid": 40140,
+    "index": 0
+  },
+  {
+    "name": "Application Start",
+    "start": 1641271864999,
+    "end": 1641271865147,
+    "duration": 148,
+    "pid": 40140,
+    "index": 1
+  },
+  {
+    "name": "Load Plugin",
+    "start": 1641271865000,
+    "end": 1641271865002,
+    "duration": 2,
+    "pid": 40140,
+    "index": 2
+  },
+  {
+    "name": "Load Config",
+    "start": 1641271865002,
+    "end": 1641271865006,
+    "duration": 4,
+    "pid": 40140,
+    "index": 3
+  },
+  {
+    "name": "Require(0) config/config.default.ts",
+    "start": 1641271865003,
+    "end": 1641271865003,
+    "duration": 0,
+    "pid": 40140,
+    "index": 4
+  },
+  {
+    "name": "Require(1) config/config.local.ts",
+    "start": 1641271865003,
+    "end": 1641271865003,
+    "duration": 0,
+    "pid": 40140,
+    "index": 5
+  },
+  {
+    "name": "Require(2) /Users/apple/Desktop/FOR-THE-PARTNER-SERVICE/node_modules/egg-session/config/config.default.js",
+    "start": 1641271865003,
+    "end": 1641271865003,
+    "duration": 0,
+    "pid": 40140,
+    "index": 6
+  },
+  {
+    "name": "Require(3) /Users/apple/Desktop/FOR-THE-PARTNER-SERVICE/node_modules/egg-security/config/config.default.js",
+    "start": 1641271865003,
+    "end": 1641271865003,
+    "duration": 0,
+    "pid": 40140,
+    "index": 7
+  },
+  {
+    "name": "Require(4) /Users/apple/Desktop/FOR-THE-PARTNER-SERVICE/node_modules/egg-jsonp/config/config.default.js",
+    "start": 1641271865003,
+    "end": 1641271865003,
+    "duration": 0,
+    "pid": 40140,
+    "index": 8
+  },
+  {
+    "name": "Require(5) /Users/apple/Desktop/FOR-THE-PARTNER-SERVICE/node_modules/egg-onerror/config/config.default.js",
+    "start": 1641271865003,
+    "end": 1641271865003,
+    "duration": 0,
+    "pid": 40140,
+    "index": 9
+  },
+  {
+    "name": "Require(6) /Users/apple/Desktop/FOR-THE-PARTNER-SERVICE/node_modules/egg-i18n/config/config.default.js",
+    "start": 1641271865003,
+    "end": 1641271865003,
+    "duration": 0,
+    "pid": 40140,
+    "index": 10
+  },
+  {
+    "name": "Require(7) /Users/apple/Desktop/FOR-THE-PARTNER-SERVICE/node_modules/egg-schedule/config/config.default.js",
+    "start": 1641271865003,
+    "end": 1641271865003,
+    "duration": 0,
+    "pid": 40140,
+    "index": 11
+  },
+  {
+    "name": "Require(8) /Users/apple/Desktop/FOR-THE-PARTNER-SERVICE/node_modules/egg-multipart/config/config.default.js",
+    "start": 1641271865003,
+    "end": 1641271865004,
+    "duration": 1,
+    "pid": 40140,
+    "index": 12
+  },
+  {
+    "name": "Require(9) /Users/apple/Desktop/FOR-THE-PARTNER-SERVICE/node_modules/egg-view/config/config.default.js",
+    "start": 1641271865004,
+    "end": 1641271865004,
+    "duration": 0,
+    "pid": 40140,
+    "index": 13
+  },
+  {
+    "name": "Require(10) /Users/apple/Desktop/FOR-THE-PARTNER-SERVICE/node_modules/egg/config/config.default.js",
+    "start": 1641271865004,
+    "end": 1641271865004,
+    "duration": 0,
+    "pid": 40140,
+    "index": 14
+  },
+  {
+    "name": "Require(11) /Users/apple/Desktop/FOR-THE-PARTNER-SERVICE/node_modules/@midwayjs/web/config/config.default.js",
+    "start": 1641271865005,
+    "end": 1641271865005,
+    "duration": 0,
+    "pid": 40140,
+    "index": 15
+  },
+  {
+    "name": "Require(12) config/config.default.ts",
+    "start": 1641271865005,
+    "end": 1641271865005,
+    "duration": 0,
+    "pid": 40140,
+    "index": 16
+  },
+  {
+    "name": "Require(13) /Users/apple/Desktop/FOR-THE-PARTNER-SERVICE/node_modules/egg-security/config/config.local.js",
+    "start": 1641271865005,
+    "end": 1641271865005,
+    "duration": 0,
+    "pid": 40140,
+    "index": 17
+  },
+  {
+    "name": "Require(14) /Users/apple/Desktop/FOR-THE-PARTNER-SERVICE/node_modules/egg-view/config/config.local.js",
+    "start": 1641271865005,
+    "end": 1641271865005,
+    "duration": 0,
+    "pid": 40140,
+    "index": 18
+  },
+  {
+    "name": "Require(15) /Users/apple/Desktop/FOR-THE-PARTNER-SERVICE/node_modules/egg/config/config.local.js",
+    "start": 1641271865006,
+    "end": 1641271865006,
+    "duration": 0,
+    "pid": 40140,
+    "index": 19
+  },
+  {
+    "name": "Require(16) config/config.local.ts",
+    "start": 1641271865006,
+    "end": 1641271865006,
+    "duration": 0,
+    "pid": 40140,
+    "index": 20
+  },
+  {
+    "name": "Before Start in node_modules/@midwayjs/web/dist/framework/web.js:45:22",
+    "start": 1641271865006,
+    "end": 1641271865132,
+    "duration": 126,
+    "pid": 40140,
+    "index": 21
+  },
+  {
+    "name": "Load extend/application.js",
+    "start": 1641271865015,
+    "end": 1641271865026,
+    "duration": 11,
+    "pid": 40140,
+    "index": 22
+  },
+  {
+    "name": "Require(17) /Users/apple/Desktop/FOR-THE-PARTNER-SERVICE/node_modules/egg-session/app/extend/application.js",
+    "start": 1641271865015,
+    "end": 1641271865016,
+    "duration": 1,
+    "pid": 40140,
+    "index": 23
+  },
+  {
+    "name": "Require(18) /Users/apple/Desktop/FOR-THE-PARTNER-SERVICE/node_modules/egg-security/app/extend/application.js",
+    "start": 1641271865016,
+    "end": 1641271865016,
+    "duration": 0,
+    "pid": 40140,
+    "index": 24
+  },
+  {
+    "name": "Require(19) /Users/apple/Desktop/FOR-THE-PARTNER-SERVICE/node_modules/egg-jsonp/app/extend/application.js",
+    "start": 1641271865016,
+    "end": 1641271865017,
+    "duration": 1,
+    "pid": 40140,
+    "index": 25
+  },
+  {
+    "name": "Require(20) /Users/apple/Desktop/FOR-THE-PARTNER-SERVICE/node_modules/egg-view/app/extend/application.js",
+    "start": 1641271865017,
+    "end": 1641271865020,
+    "duration": 3,
+    "pid": 40140,
+    "index": 26
+  },
+  {
+    "name": "Require(21) /Users/apple/Desktop/FOR-THE-PARTNER-SERVICE/node_modules/egg-mock/app/extend/application.js",
+    "start": 1641271865020,
+    "end": 1641271865023,
+    "duration": 3,
+    "pid": 40140,
+    "index": 27
+  },
+  {
+    "name": "Require(22) /Users/apple/Desktop/FOR-THE-PARTNER-SERVICE/node_modules/@midwayjs/mock/app/extend/application.js",
+    "start": 1641271865023,
+    "end": 1641271865024,
+    "duration": 1,
+    "pid": 40140,
+    "index": 28
+  },
+  {
+    "name": "Require(23) /Users/apple/Desktop/FOR-THE-PARTNER-SERVICE/node_modules/@midwayjs/web/app/extend/application.js",
+    "start": 1641271865024,
+    "end": 1641271865025,
+    "duration": 1,
+    "pid": 40140,
+    "index": 29
+  },
+  {
+    "name": "Load extend/request.js",
+    "start": 1641271865026,
+    "end": 1641271865028,
+    "duration": 2,
+    "pid": 40140,
+    "index": 30
+  },
+  {
+    "name": "Require(24) /Users/apple/Desktop/FOR-THE-PARTNER-SERVICE/node_modules/egg/app/extend/request.js",
+    "start": 1641271865027,
+    "end": 1641271865027,
+    "duration": 0,
+    "pid": 40140,
+    "index": 31
+  },
+  {
+    "name": "Load extend/response.js",
+    "start": 1641271865028,
+    "end": 1641271865032,
+    "duration": 4,
+    "pid": 40140,
+    "index": 32
+  },
+  {
+    "name": "Require(25) /Users/apple/Desktop/FOR-THE-PARTNER-SERVICE/node_modules/egg/app/extend/response.js",
+    "start": 1641271865029,
+    "end": 1641271865031,
+    "duration": 2,
+    "pid": 40140,
+    "index": 33
+  },
+  {
+    "name": "Load extend/context.js",
+    "start": 1641271865032,
+    "end": 1641271865034,
+    "duration": 2,
+    "pid": 40140,
+    "index": 34
+  },
+  {
+    "name": "Require(26) /Users/apple/Desktop/FOR-THE-PARTNER-SERVICE/node_modules/egg-security/app/extend/context.js",
+    "start": 1641271865032,
+    "end": 1641271865032,
+    "duration": 0,
+    "pid": 40140,
+    "index": 35
+  },
+  {
+    "name": "Require(27) /Users/apple/Desktop/FOR-THE-PARTNER-SERVICE/node_modules/egg-jsonp/app/extend/context.js",
+    "start": 1641271865032,
+    "end": 1641271865033,
+    "duration": 1,
+    "pid": 40140,
+    "index": 36
+  },
+  {
+    "name": "Require(28) /Users/apple/Desktop/FOR-THE-PARTNER-SERVICE/node_modules/egg-i18n/app/extend/context.js",
+    "start": 1641271865033,
+    "end": 1641271865033,
+    "duration": 0,
+    "pid": 40140,
+    "index": 37
+  },
+  {
+    "name": "Require(29) /Users/apple/Desktop/FOR-THE-PARTNER-SERVICE/node_modules/egg-multipart/app/extend/context.js",
+    "start": 1641271865033,
+    "end": 1641271865033,
+    "duration": 0,
+    "pid": 40140,
+    "index": 38
+  },
+  {
+    "name": "Require(30) /Users/apple/Desktop/FOR-THE-PARTNER-SERVICE/node_modules/egg-view/app/extend/context.js",
+    "start": 1641271865033,
+    "end": 1641271865033,
+    "duration": 0,
+    "pid": 40140,
+    "index": 39
+  },
+  {
+    "name": "Require(31) /Users/apple/Desktop/FOR-THE-PARTNER-SERVICE/node_modules/egg/app/extend/context.js",
+    "start": 1641271865033,
+    "end": 1641271865033,
+    "duration": 0,
+    "pid": 40140,
+    "index": 40
+  },
+  {
+    "name": "Require(32) /Users/apple/Desktop/FOR-THE-PARTNER-SERVICE/node_modules/@midwayjs/web/app/extend/context.js",
+    "start": 1641271865033,
+    "end": 1641271865033,
+    "duration": 0,
+    "pid": 40140,
+    "index": 41
+  },
+  {
+    "name": "Load extend/helper.js",
+    "start": 1641271865034,
+    "end": 1641271865051,
+    "duration": 17,
+    "pid": 40140,
+    "index": 42
+  },
+  {
+    "name": "Require(33) /Users/apple/Desktop/FOR-THE-PARTNER-SERVICE/node_modules/egg-security/app/extend/helper.js",
+    "start": 1641271865034,
+    "end": 1641271865049,
+    "duration": 15,
+    "pid": 40140,
+    "index": 43
+  },
+  {
+    "name": "Require(34) /Users/apple/Desktop/FOR-THE-PARTNER-SERVICE/node_modules/egg/app/extend/helper.js",
+    "start": 1641271865050,
+    "end": 1641271865050,
+    "duration": 0,
+    "pid": 40140,
+    "index": 44
+  },
+  {
+    "name": "Load app.js",
+    "start": 1641271865051,
+    "end": 1641271865075,
+    "duration": 24,
+    "pid": 40140,
+    "index": 45
+  },
+  {
+    "name": "Require(35) /Users/apple/Desktop/FOR-THE-PARTNER-SERVICE/node_modules/egg-session/app.js",
+    "start": 1641271865051,
+    "end": 1641271865052,
+    "duration": 1,
+    "pid": 40140,
+    "index": 46
+  },
+  {
+    "name": "Require(36) /Users/apple/Desktop/FOR-THE-PARTNER-SERVICE/node_modules/egg-security/app.js",
+    "start": 1641271865052,
+    "end": 1641271865053,
+    "duration": 1,
+    "pid": 40140,
+    "index": 47
+  },
+  {
+    "name": "Require(37) /Users/apple/Desktop/FOR-THE-PARTNER-SERVICE/node_modules/egg-onerror/app.js",
+    "start": 1641271865053,
+    "end": 1641271865060,
+    "duration": 7,
+    "pid": 40140,
+    "index": 48
+  },
+  {
+    "name": "Require(38) /Users/apple/Desktop/FOR-THE-PARTNER-SERVICE/node_modules/egg-i18n/app.js",
+    "start": 1641271865060,
+    "end": 1641271865071,
+    "duration": 11,
+    "pid": 40140,
+    "index": 49
+  },
+  {
+    "name": "Require(39) /Users/apple/Desktop/FOR-THE-PARTNER-SERVICE/node_modules/egg-schedule/app.js",
+    "start": 1641271865071,
+    "end": 1641271865072,
+    "duration": 1,
+    "pid": 40140,
+    "index": 50
+  },
+  {
+    "name": "Require(40) /Users/apple/Desktop/FOR-THE-PARTNER-SERVICE/node_modules/egg-multipart/app.js",
+    "start": 1641271865072,
+    "end": 1641271865072,
+    "duration": 0,
+    "pid": 40140,
+    "index": 51
+  },
+  {
+    "name": "Require(41) /Users/apple/Desktop/FOR-THE-PARTNER-SERVICE/node_modules/midway-schedule/app.js",
+    "start": 1641271865073,
+    "end": 1641271865073,
+    "duration": 0,
+    "pid": 40140,
+    "index": 52
+  },
+  {
+    "name": "Require(42) /Users/apple/Desktop/FOR-THE-PARTNER-SERVICE/node_modules/egg-mock/app.js",
+    "start": 1641271865073,
+    "end": 1641271865073,
+    "duration": 0,
+    "pid": 40140,
+    "index": 53
+  },
+  {
+    "name": "Require(43) /Users/apple/Desktop/FOR-THE-PARTNER-SERVICE/node_modules/@midwayjs/web/app.js",
+    "start": 1641271865074,
+    "end": 1641271865074,
+    "duration": 0,
+    "pid": 40140,
+    "index": 54
+  },
+  {
+    "name": "Did Load in /Users/apple/Desktop/FOR-THE-PARTNER-SERVICE/node_modules/@midwayjs/web/app.js:didLoad",
+    "start": 1641271865083,
+    "end": 1641271865133,
+    "duration": 50,
+    "pid": 40140,
+    "index": 55
+  },
+  {
+    "name": "Load Service",
+    "start": 1641271865084,
+    "end": 1641271865088,
+    "duration": 4,
+    "pid": 40140,
+    "index": 56
+  },
+  {
+    "name": "Load \"service\" to Context",
+    "start": 1641271865084,
+    "end": 1641271865088,
+    "duration": 4,
+    "pid": 40140,
+    "index": 57
+  },
+  {
+    "name": "Load Middleware",
+    "start": 1641271865088,
+    "end": 1641271865131,
+    "duration": 43,
+    "pid": 40140,
+    "index": 58
+  },
+  {
+    "name": "Load \"middlewares\" to Application",
+    "start": 1641271865089,
+    "end": 1641271865131,
+    "duration": 42,
+    "pid": 40140,
+    "index": 59
+  },
+  {
+    "name": "Load Controller",
+    "start": 1641271865131,
+    "end": 1641271865132,
+    "duration": 1,
+    "pid": 40140,
+    "index": 60
+  },
+  {
+    "name": "Load \"controller\" to Application",
+    "start": 1641271865131,
+    "end": 1641271865132,
+    "duration": 1,
+    "pid": 40140,
+    "index": 61
+  },
+  {
+    "name": "Load Router",
+    "start": 1641271865132,
+    "end": 1641271865132,
+    "duration": 0,
+    "pid": 40140,
+    "index": 62
+  },
+  {
+    "name": "Will Ready in /Users/apple/Desktop/FOR-THE-PARTNER-SERVICE/node_modules/@midwayjs/web/app.js:willReady",
+    "start": 1641271865133,
+    "end": 1641271865146,
+    "duration": 13,
+    "pid": 40140,
+    "index": 63
+  }
+]

@@ -1,0 +1,12 @@
+2022-01-04 12:46:10,338 INFO 39105 [egg-schedule]: register schedule /Users/apple/Desktop/FOR-THE-PARTNER-SERVICE/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2022-01-04 12:46:10,434 INFO 39105 [Timer] /Users/apple/Desktop/FOR-THE-PARTNER-SERVICE/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 56629568ms at 2022-01-05 04:30:00.002
+2022-01-04 12:51:05,082 INFO 40140 [egg-schedule]: register schedule /Users/apple/Desktop/FOR-THE-PARTNER-SERVICE/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2022-01-04 12:51:05,153 INFO 40140 [Timer] /Users/apple/Desktop/FOR-THE-PARTNER-SERVICE/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 56334849ms at 2022-01-05 04:30:00.002
+2022-01-04 12:51:18,094 INFO 40209 [egg-schedule]: register schedule /Users/apple/Desktop/FOR-THE-PARTNER-SERVICE/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2022-01-04 12:51:18,148 INFO 40209 [Timer] /Users/apple/Desktop/FOR-THE-PARTNER-SERVICE/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 56321854ms at 2022-01-05 04:30:00.002
+2022-01-04 12:52:43,732 INFO 40488 [egg-schedule]: register schedule /Users/apple/Desktop/FOR-THE-PARTNER-SERVICE/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2022-01-04 12:52:43,806 INFO 40488 [Timer] /Users/apple/Desktop/FOR-THE-PARTNER-SERVICE/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 56236196ms at 2022-01-05 04:30:00.002
+2022-01-04 12:53:34,869 INFO 40685 [egg-schedule]: register schedule /Users/apple/Desktop/FOR-THE-PARTNER-SERVICE/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2022-01-04 12:53:34,946 INFO 40685 [Timer] /Users/apple/Desktop/FOR-THE-PARTNER-SERVICE/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 56185057ms at 2022-01-05 04:30:00.002
+2022-01-04 12:54:26,886 INFO 40891 [egg-schedule]: register schedule /Users/apple/Desktop/FOR-THE-PARTNER-SERVICE/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2022-01-04 12:54:26,959 INFO 40891 [Timer] /Users/apple/Desktop/FOR-THE-PARTNER-SERVICE/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 56133043ms at 2022-01-05 04:30:00.002

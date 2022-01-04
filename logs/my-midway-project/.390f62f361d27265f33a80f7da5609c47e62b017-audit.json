@@ -1,0 +1,14 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 31
+    },
+    "auditLog": "/Users/apple/Desktop/FOR-THE-PARTNER-SERVICE/logs/my-midway-project/.390f62f361d27265f33a80f7da5609c47e62b017-audit.json",
+    "files": [
+        {
+            "date": 1641271570256,
+            "name": "/Users/apple/Desktop/FOR-THE-PARTNER-SERVICE/logs/my-midway-project/midway-core.log.2022-01-04",
+            "hash": "31239ba8f74df98279b3480ccc7aaea1"
+        }
+    ]
+}
